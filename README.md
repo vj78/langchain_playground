@@ -36,7 +36,8 @@ This repository has some examples on how to build AI applications using LangChai
 - LangChain 1.2
 - Ollama Chat model
 
-### Notebook 2 : Create Simple Agents
+### Notebook 3 : Create Simple Agents
 **Notebook**: [`notebooks/3.0_LangChain_Create_Agents.ipynb`]
 - LangChain 1.2
 - Ollama Chat model
+
